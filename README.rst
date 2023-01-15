@@ -1,6 +1,8 @@
 PloudosAPI
 ==========
 
+Warning: This library is not fully working anymore and I'm not planning to fix it anytime soon.
+
 An API Wrapper to interact with ploudos.com
 -----------------------------------------------
 
