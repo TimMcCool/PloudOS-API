@@ -1,7 +1,7 @@
 PloudosAPI
 ==========
 
-Warning: This library is not fully working anymore and I'm not planning to fix it anytime soon.
+Warning: This library is deprecated.
 
 An API Wrapper to interact with ploudos.com
 -----------------------------------------------
