@@ -1,8 +1,6 @@
 PloudosAPI
 ==========
 
-Warning: This library is deprecated.
-
 An API Wrapper to interact with ploudos.com
 -----------------------------------------------
 
